@@ -1,0 +1,10 @@
+/envjarvis
+/venv
+/__pycache__
+/AI/__pycache__
+/engine/auth/__pycache__
+/AI/engine/auth/__pycache__
+contacts.csv
+jarvis.db
+/engine/__pycache__
+/engine/cookies.json

@@ -1,0 +1,104 @@
+
+
+[2025-11-19T14:51:29.003413] Exception:
+Traceback (most recent call last):
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\command.py", line 80, in allCommands
+    chatBot(query)
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\features.py", line 176, in chatBot
+    chatbot = hugchat.ChatBot(cookie_path="engine\cookies.json")
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\AI\envjarvis\lib\site-packages\hugchat\hugchat.py", line 75, in __init__
+    self.llms = self.get_remote_llms()
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\AI\envjarvis\lib\site-packages\hugchat\hugchat.py", line 411, in get_remote_llms
+    raise Exception(
+Exception: Failed to get remote LLMs with status code: 401
+
+
+[2026-01-29T14:50:19.683465] Exception:
+Traceback (most recent call last):
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\command.py", line 80, in allCommands
+    chatBot(query)
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\features.py", line 176, in chatBot
+    chatbot = hugchat.ChatBot(cookie_path="engine\cookies.json")
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 75, in __init__
+    self.llms = self.get_remote_llms()
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 411, in get_remote_llms
+    raise Exception(
+Exception: Failed to get remote LLMs with status code: 401
+
+
+[2026-01-29T14:50:42.027596] Exception:
+Traceback (most recent call last):
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\command.py", line 80, in allCommands
+    chatBot(query)
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\features.py", line 176, in chatBot
+    chatbot = hugchat.ChatBot(cookie_path="engine\cookies.json")
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 75, in __init__
+    self.llms = self.get_remote_llms()
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 411, in get_remote_llms
+    raise Exception(
+Exception: Failed to get remote LLMs with status code: 401
+
+
+[2026-01-29T14:51:49.570576] Exception:
+Traceback (most recent call last):
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\command.py", line 80, in allCommands
+    chatBot(query)
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\features.py", line 176, in chatBot
+    chatbot = hugchat.ChatBot(cookie_path="engine/cookies.json")
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 75, in __init__
+    self.llms = self.get_remote_llms()
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 411, in get_remote_llms
+    raise Exception(
+Exception: Failed to get remote LLMs with status code: 401
+
+
+[2026-01-29T14:52:04.700237] Exception:
+Traceback (most recent call last):
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\command.py", line 80, in allCommands
+    chatBot(query)
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\features.py", line 176, in chatBot
+    chatbot = hugchat.ChatBot(cookie_path="engine\cookies.json")
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 75, in __init__
+    self.llms = self.get_remote_llms()
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 411, in get_remote_llms
+    raise Exception(
+Exception: Failed to get remote LLMs with status code: 401
+
+
+[2026-01-29T14:53:05.146234] Exception:
+Traceback (most recent call last):
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\command.py", line 80, in allCommands
+    chatBot(query)
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\features.py", line 176, in chatBot
+    chatbot = hugchat.ChatBot(cookie_path="engine\cookies.json")
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 75, in __init__
+    self.llms = self.get_remote_llms()
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 411, in get_remote_llms
+    raise Exception(
+Exception: Failed to get remote LLMs with status code: 401
+
+
+[2026-01-29T15:02:10.319872] Exception:
+Traceback (most recent call last):
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\command.py", line 80, in allCommands
+    chatBot(query)
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\features.py", line 176, in chatBot
+    chatbot = hugchat.ChatBot(cookie_path="engine\cookies.json")
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 75, in __init__
+    self.llms = self.get_remote_llms()
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 417, in get_remote_llms
+    data = json.loads(text)["nodes"][0]["data"]
+TypeError: 'NoneType' object is not subscriptable
+
+
+[2026-01-29T15:02:26.491464] Exception:
+Traceback (most recent call last):
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\command.py", line 80, in allCommands
+    chatBot(query)
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\engine\features.py", line 176, in chatBot
+    chatbot = hugchat.ChatBot(cookie_path="engine\cookies.json")
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 75, in __init__
+    self.llms = self.get_remote_llms()
+  File "C:\Users\amish\OneDrive\Desktop\TE(AI)- Mini Project\envjarvis\lib\site-packages\hugchat\hugchat.py", line 417, in get_remote_llms
+    data = json.loads(text)["nodes"][0]["data"]
+TypeError: 'NoneType' object is not subscriptable
